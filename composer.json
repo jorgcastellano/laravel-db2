@@ -1,6 +1,6 @@
 {
-    "name": "cooperl/laravel-db2",
-    "description": "laravel-db2 is a simple DB2 service provider for Laravel. It provides DB2 Connection by extending the Illuminate Database component of the laravel framework.",
+    "name": "jorgcastellano/laravel-db2",
+    "description": "Fork from cooperl/laravel-db2, laravel-db2 is a simple DB2 service provider for Laravel. It provides DB2 Connection by extending the Illuminate Database component of the laravel framework.",
     "keywords": [
         "laravel",
         "DB2",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/database": "^6.0"
+        "illuminate/database": "^7.0"
     },
     "require-dev": {
     },
